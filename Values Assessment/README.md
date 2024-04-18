@@ -9,5 +9,9 @@ For more information about this report, see: https://www.ipbes.net/the-values-as
 
 For the full report, see: https://doi.org/10.5281/zenodo.6522522
 
+For information on how to cite the VA report, see: https://ict.ipbes.net/ipbes-ict-guide/data-and-knowledge-management/technical-guidelines/suggested-citations#iii.-values-assessment
+
+
+### Contact
 
 For any questions and enquiries, please contact the IPBES Data and Knowledge Unit <aidin.niamir@senckenberg.de>
